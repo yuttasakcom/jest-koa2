@@ -1,6 +1,7 @@
 # jest-koa2
 > A clear and concise introduction to testing Koa with Jest and Supertest
 
+[![Build Status](https://travis-ci.org/yuttasakcom/jest-koa2.svg?branch=master)](https://travis-ci.org/yuttasakcom/jest-koa2)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE)
 
 Companion repo for [A clear and concise introduction to testing Koa with Jest and Supertest](https://www.valentinog.com/blog/testing-api-koa-jest/)
